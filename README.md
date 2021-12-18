@@ -1,0 +1,2 @@
+# studentConfigServer
+config-server
